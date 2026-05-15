@@ -1,0 +1,2 @@
+# linuxbasics
+learning basic linux
