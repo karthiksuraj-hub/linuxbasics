@@ -1,0 +1,30 @@
+| Command              | Simple Meaning        |
+| -------------------- | --------------------- |
+| `pwd`                | Show current location |
+| `ls`                 | Show files/folders    |
+| `cd folder`          | Enter folder          |
+| `cd ..`              | Go back               |
+| `clear`              | Clear screen          |
+| `mkdir name`         | Create folder         |
+| `touch file.txt`     | Create file           |
+| `cat file.txt`       | Read file             |
+| `nano file.txt`      | Edit file             |
+| `cp a b`             | Copy file             |
+| `mv a b`             | Move/Rename file      |
+| `rm file.txt`        | Delete file           |
+| `rm -r folder`       | Delete folder         |
+| `echo hello`         | Print text                 |
+| `grep word file.txt` | Search word in file   |
+| `find . -name file`  | Find file             |
+| `sudo command`       | Run as admin          |
+| `whoami`             | Show username         |
+| `history`            | Show old commands     |
+| `top`                | Show system usage     |
+| `ps`                 | Show running programs |
+| `kill PID`           | Stop program          |
+| `df -h`              | Show storage          |
+| `free -h`            | Show RAM              |
+| `ping google.com`    | Check internet        |
+| `wget url`           | Download file         |
+| `man ls`             | Help/manual           |
+| `exit`               | Close terminal        |
